@@ -7,7 +7,7 @@
 e.reddit.com
 
 # deezer 
-# deezer is going to love me for giving them all of these xD
+# This should improve loading of albums and image rendering
 media.deezer.com
 deezer.com
 cdn-images.deezer.com
