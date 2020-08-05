@@ -2,6 +2,17 @@
 # Project home page: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
 
+# Minor changes to improve image loading rendering
+# reddit
+redditmedia.com
+e.reddit.com
+
+# deezer
+deezer.com
+cdn-images.deezer.com
+api.deezer.com
+
+
 # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com
 i.cdn.turner.com
