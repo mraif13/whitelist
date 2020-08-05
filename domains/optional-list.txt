@@ -4,7 +4,6 @@
 
 # Minor changes to improve image loading rendering
 # reddit
-redditmedia.com
 e.reddit.com
 
 # deezer
