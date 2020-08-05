@@ -6,7 +6,9 @@
 # reddit
 e.reddit.com
 
-# deezer
+# deezer 
+# deezer is going to love me for giving them all of these xD
+media.deezer.com
 deezer.com
 cdn-images.deezer.com
 api.deezer.com
