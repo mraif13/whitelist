@@ -10,6 +10,9 @@ e.reddit.com
 deezer.com
 cdn-images.deezer.com
 api.deezer.com
+pipe.deezer.com
+auth.deezer.com
+e-cdns-images.dzcdn.net
 
 
 # Adult Swim Videos on Amazon Firestick
