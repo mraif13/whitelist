@@ -17,6 +17,7 @@ auth.deezer.com
 e-cdns-images.dzcdn.net
 .dzcdn.net
 dzcdn.net
+www.deezer.com
 
 
 # Adult Swim Videos on Amazon Firestick
