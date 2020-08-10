@@ -6,6 +6,9 @@
 # reddit
 e.reddit.com
 
+# emaildrop.io api
+api.emaildrop.io
+
 # deezer 
 # This should improve loading of albums and image rendering
 media.deezer.com
