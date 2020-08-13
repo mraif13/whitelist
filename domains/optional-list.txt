@@ -21,7 +21,8 @@ e-cdns-images.dzcdn.net
 .dzcdn.net
 dzcdn.net
 www.deezer.com
-
+www.cloudflare.com
+info.cloudflare.com
 
 # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com
