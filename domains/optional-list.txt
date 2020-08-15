@@ -20,6 +20,7 @@ auth.deezer.com
 e-cdns-images.dzcdn.net
 .dzcdn.net
 dzcdn.net
+rec.deezer.com
 www.deezer.com
 www.cloudflare.com
 info.cloudflare.com
