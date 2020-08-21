@@ -9,19 +9,24 @@ e.reddit.com
 # emaildrop.io api
 api.emaildrop.io
 
+# myt
+*.myt.mu
+www.myt.mu
+myt.mu
 # deezer 
 # This should improve loading of albums and image rendering
-media.deezer.com
-deezer.com
-cdn-images.deezer.com
+a-api.dzcdn.net
+a-cdn-files.dzcdn.net
 api.deezer.com
-pipe.deezer.com
+api.dzcdn.net
 auth.deezer.com
-e-cdns-images.dzcdn.net
-.dzcdn.net
-dzcdn.net
-rec.deezer.com
+connect.deezer.com
+hhe.deezer.com
+m.deezer.com
+pipe.deezer.com
 www.deezer.com
+www.dzcdn.net
+media.deezer.com
 www.cloudflare.com
 info.cloudflare.com
 
