@@ -26,6 +26,7 @@ m.deezer.com
 pipe.deezer.com
 www.deezer.com
 www.dzcdn.net
+rec.deezer.com
 media.deezer.com
 www.cloudflare.com
 info.cloudflare.com
