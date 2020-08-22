@@ -28,6 +28,7 @@ www.deezer.com
 www.dzcdn.net
 rec.deezer.com
 media.deezer.com
+e-cdnt-proxy-e.dzcdn.net
 www.cloudflare.com
 info.cloudflare.com
 
